@@ -10,7 +10,7 @@ class Solution {
 }
 
 // approach 2 - O(1) TC
-class Solution {
+class Solution2 {
     public int countOdds(int low, int high) {
         int count = 0;
         if (low % 2 == 1)
